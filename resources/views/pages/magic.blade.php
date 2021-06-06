@@ -6,6 +6,7 @@
 
 @include('menus.header.navbar')
 
+
 <script src="{{asset("assets/js/real.js")}}" type="text/javascript"></script>
 
 
