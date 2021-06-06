@@ -1,10 +1,13 @@
 
 
-<link href="ecat.css" rel="stylesheet" type="text/css" />
+
+
+<link href="{{asset("assets/css/ecat.css")}}" rel="stylesheet" type="text/css" />
 
 @include('menus.header.navbar')
 
-<script src="real.js" type="text/javascript"></script>
+<script src="{{asset("assets/js/real.js")}}" type="text/javascript"></script>
+
 
 
 
